@@ -1,6 +1,6 @@
 {
   "name": "vite-reactjs-base",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "keywords": [],
+  "keywords": ["vite", "reactjs"],
   "author": "",
   "license": "ISC",
   "devDependencies": {
